@@ -1,1 +1,5 @@
-
+Considere um aluno
+Esse aluno possui um livro favorito, que, por simplificação, possui um título, número de páginas e preço.
+- Codifique a struct de Livro e uma struct de Aluno
+- Crie as funções de Criação(C), Delete(D), e de Impressão para a stuct Aluno e Livro
+- Na função de Delete, garanta que o ponteiro é atribuido como NULL depois da desalocação
